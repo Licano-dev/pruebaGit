@@ -1,7 +1,3 @@
-Hola mi nombre es julian arias perez
-estudiaba desarrollo de software en la politecnica ahora manera autodidacta
-cumplire 24 años  y vivo en un pueblito chico y bonito
-
-es alto y delgado.
-hablaremos de su vida
-estudiar idomas preferiblemente ingles
+Hola mi nombre es julian arias
+estdio desarrollo de software de manera autodidacta
+desarrolla ua app movil de notas
